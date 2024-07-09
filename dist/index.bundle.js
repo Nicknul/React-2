@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hello"),document.querySelector("#root").textContent="hello world"})();
